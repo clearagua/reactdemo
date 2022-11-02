@@ -1,7 +1,7 @@
 const MyGitHub = () => {
     return (
         <p>
-            Link to GitHub: <a href="https://github.com/clearagua"> https://github.com/dldf/clearagua</a>
+            Link to GitHub: <a href="https://github.com/clearagua"> https://github.com/clearagua</a>
         </p>
     )
 }
